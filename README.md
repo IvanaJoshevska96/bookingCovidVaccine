@@ -27,7 +27,7 @@ HTML
 -MySQL
 -Apache Tomcat
 
-===Software and toold required:
+===Software and tools required:
 -Eclipse EE;
 -MySQL;
 -Tomcat 8.5
