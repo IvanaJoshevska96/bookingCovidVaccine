@@ -4,7 +4,7 @@ Simple Booking Covid Vaccine Web Application using Java
 
 The Application is created for the following purpose:
 -Booking a vaccine;
--Cancel booking;
+-Cancel a reservation;
 
 Users have to provide:
 -First Name;
