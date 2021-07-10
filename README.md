@@ -1,6 +1,7 @@
 # bookingCovidVaccine
 Booking Covid Vaccine Application using Java
 
+
 The Application is created for the following purpose:
 -Booking a vaccine;
 -Cancel booking;
