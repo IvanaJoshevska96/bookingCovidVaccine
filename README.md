@@ -1,5 +1,5 @@
 # bookingCovidVaccine
-Booking Covid Vaccine Application using Java
+Simple Booking Covid Vaccine Web Application using Java
 
 
 The Application is created for the following purpose:
